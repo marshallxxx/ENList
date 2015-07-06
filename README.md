@@ -3,7 +3,7 @@ Simple UserControl in Silverlight which help provide pull to refresh action.
 
 ####How to use it
 
-1 Where you want a listupdater import in your .xaml EN.ListUpdater namespace
+1 Where you want a PulToRefreshListBox import in your .xaml EN.ListUpdater namespace
 ```
 <phone:PhoneApplicationPage
     x:Class="YourClass"
