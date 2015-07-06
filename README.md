@@ -53,4 +53,6 @@ Is triggered when HeaderView was fully visible and than it becomes not fully vis
 ####OnActivatedDrop
 Is triggered when HeaderView was fully visible and drag gesture was released
 
-####Also can customize
+###Also can customize
+####TouchSensebility  
+Value which determine sensibility of drag gesture
