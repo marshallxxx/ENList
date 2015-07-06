@@ -57,4 +57,4 @@ Is triggered when HeaderView was fully visible and drag gesture was released
 ####TouchSensebility  
 Value which determine sensibility of drag gesture
 
-###For those who want WinRT version, I think this can be easilly be done from Silverlight version, you will need to change "using" statements and also in some cases use different classes.
+######For those who want WinRT version, I think this can be easilly be done from Silverlight version, you will need to change "using" statements and also in some cases use different classes.
